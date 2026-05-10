@@ -1,1 +1,1 @@
-console.log("Welcome to GoodTube Cracked!");
+document.querySelector('.leaveReview')?.remove();
